@@ -1,3 +1,16 @@
-btn-outline-success{
+/* ---------- */
+/* Buutons */
+/* ---------- */
+
+.btn-outline-success{
     color: blue;
+    border-color: blue;
+}
+
+/* ---------- */
+/* Navigation */
+/* ---------- */
+
+a.navbar-brand{
+    background-image: url(Lacapsule.png);
 }
